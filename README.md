@@ -6,7 +6,7 @@ More information can be found in my [blog post](https://medium.com/hugo-ferreira
 
 ## Data
 
-The data used in this analysis comes from Open Power System Data, a free-of-charge platform with data data on installed generation capacity by country/technology, individual power plants (conventional and renewable), and time series data. It can be obtained from:
+The data used in this analysis come from Open Power System Data, a free-of-charge platform with data on installed generation capacity by country/technology, individual power plants (conventional and renewable), and time series data. It can be obtained from:
 
 https://open-power-system-data.org/
 
